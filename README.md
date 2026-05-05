@@ -5,6 +5,8 @@ Lua-driven game engine core built on Raylib, Box2D, and pure chaos energy.
 T3 Engine is a C++ game engine project with a scripting-first runtime.  
 Core systems are bootstrapped in C++, then gameplay behavior is driven through Lua hooks, scene loading, and runtime objects.
 
+Also i will be glad if you join my [Discord](https://discord.gg/tUZzEH5H9U)!
+
 ## Why It Is Cool
 
 - Hook-based gameplay model (global hooks + per-object hooks).
